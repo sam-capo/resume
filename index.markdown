@@ -34,8 +34,8 @@ Senior Thesis Research and Production, Winter 2024
 - Created a series of seed packets through an iterative process using feedback from an advisor.
 
 Graphic Design, Winter 2023
-
 - Designed a novel in an expressive manner that conveyed a clear concept through the application of design principles and typographic conventions which resulted in the achievement of a final grade of 91%.
+  
 Television and Society, Fall 2023
 - Coordinated and delegated work to four people for a group presentation to ensure deadlines were met and members were well-practiced which resulted in achieving a grade of 96%.
 
