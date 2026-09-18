@@ -25,20 +25,20 @@ Graphic Design
 Honours Bachelor or Arts, Media Arts
 *September 2020 - April 2024*
 Senior Thesis Research and Production, Winter 2024
-• Developed and executed a plan for a design-based project exploring Ontario Wildflowers that resulted in achieving a final grade of 100%.
-• Created a series of seed packets through an iterative process using feedback from an advisor.
+- Developed and executed a plan for a design-based project exploring Ontario Wildflowers that resulted in achieving a final grade of 100%.
+- Created a series of seed packets through an iterative process using feedback from an advisor.
 Graphic Design, Winter 2023
-• Designed a novel in an expressive manner that conveyed a clear concept through the application of design principles and typographic conventions which resulted in the achievement of a final grade of 91%.
+- Designed a novel in an expressive manner that conveyed a clear concept through the application of design principles and typographic conventions which resulted in the achievement of a final grade of 91%.
 Television and Society, Fall 2023
-• Coordinated and delegated work to four people for a group presentation to ensure deadlines were met and members were well-practiced which resulted in achieving a grade of 96%.
+- Coordinated and delegated work to four people for a group presentation to ensure deadlines were met and members were well-practiced which resulted in achieving a grade of 96%.
 
 ## Employment Experience
 ### Communications Assistant
 McMaster Health Sciences, Hamilton
-• Created workflow document to ensure brand standardization across community of practice.
+- Created workflow document to ensure brand standardization across community of practice.
 - Created graphics and videos for YouTube and Instagram which resulted in increased follower count.
-• Facilitated the redesign of YouTube thumbnails and updated videos for AODA compliance.
-• Organized archival media into accessible packages for a smooth workflow.
+- Facilitated the redesign of YouTube thumbnails and updated videos for AODA compliance.
+- Organized archival media into accessible packages for a smooth workflow.
 
 
 
