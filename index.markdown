@@ -1,5 +1,5 @@
 # Sam's Resume
-My name is **Samantha Capobianco**, I am currently a graphic design student at Humber Polytechnic. Check out some of my work on [my website](https://readymag.website/u1363359061/4950580/)
+My name is **Samantha Capobianco**, I am currently a graphic design student at Humber Polytechnic. Check out my [LinkedIn profile](https://www.linkedin.com/in/samantha-capobianco/).
 
 ## Highlight of Qualifications
 - Three years of experience using Adobe Suite in educational and professional settings
