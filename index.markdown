@@ -22,7 +22,7 @@ Graphic Design
 #### Typography
 - Applied typographic principles including contrast, hierarchy, and grid systems to design a type specimen poster and an album insert poster, producing print ready layouts with strong composition and attention to detail.
 - Designed and printed a multi-page cookbook and a fully typeset book based on a classic from Project Gutenberg, demonstrating proficiency in layout design, long-form typography, and print production.
-![Mockup of a book design for the novel The Blood of the Vampire by Florence Marryat]
+![Mockup of a book design for the novel The Blood of the Vampire by Florence Marryat](images/desn156-0NA-A3-Mockup-samanthacapobianco-new.jpeg)
 
 ### McMaster University
 Honours Bachelor or Arts, Media Arts
