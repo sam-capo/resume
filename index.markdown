@@ -14,9 +14,10 @@ Graphic Design
 *September 2025 - Present*
 #### Design
 - Applied core design principles to create visually effective poster compositions and designed two original printed vinyl covers, translating conceptual ideas into print-ready layouts.
-![alt text](image.jpg)
+![alt text](sam-capobianco-albumart1-packagedesign.jpg)
+![alt text](sam-capobianco-albumart2-packagedesign.jpg)
 - Designed and developed an accessible website for a charity, implementing AODA standards through accessible navigation, typography, and colour contrast
-![alt text](image.jpg)
+![alt text](DESN-151-Assignment6-Mockup-SamanthaCapobianco.jpg)
 #### Typography
 - Applied typographic principles including contrast, hierarchy, and grid systems to design a type specimen poster and an album insert poster, producing print ready layouts with strong composition and attention to detail.
 - Designed and printed a multi-page cookbook and a fully typeset book based on a classic from Project Gutenberg, demonstrating proficiency in layout design, long-form typography, and print production.
