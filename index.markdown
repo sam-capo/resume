@@ -1,5 +1,5 @@
 # Sam's Resume
-My name is **Samantha Capobianco**, I am currently a graphic design student at Humber Polytechnic. Check out some of my work here [title](https://readymag.website/u1363359061/4950580/)
+My name is **Samantha Capobianco**, I am currently a graphic design student at Humber Polytechnic. Check out some of my work on [my website](https://readymag.website/u1363359061/4950580/)
 
 ## Highlight of Qualifications
 - Three years of experience using Adobe Suite in educational and professional settings
@@ -14,10 +14,10 @@ Graphic Design
 *September 2025 - Present*
 #### Design
 - Applied core design principles to create visually effective poster compositions and designed two original printed vinyl covers, translating conceptual ideas into print-ready layouts.
-![alt text](sam-capobianco-albumart1-packagedesign.jpg)
-![alt text](sam-capobianco-albumart2-packagedesign.jpg)
+![Mockup of album artwork for a band called The Hollow Shouts, with a black and white colour scheme](sam-capobianco-albumart1-packagedesign.jpg)
+![Mockup of album artwork for a band called The Golden Reverie, featuring stained glass artwork of red lilies](sam-capobianco-albumart2-packagedesign.jpg)
 - Designed and developed an accessible website for a charity, implementing AODA standards through accessible navigation, typography, and colour contrast
-![alt text](DESN-151-Assignment6-Mockup-SamanthaCapobianco.jpg)
+![Mockup of a website design for a bird charity website, using a green colour palette](DESN-151-Assignment6-Mockup-SamanthaCapobianco.jpg)
 #### Typography
 - Applied typographic principles including contrast, hierarchy, and grid systems to design a type specimen poster and an album insert poster, producing print ready layouts with strong composition and attention to detail.
 - Designed and printed a multi-page cookbook and a fully typeset book based on a classic from Project Gutenberg, demonstrating proficiency in layout design, long-form typography, and print production.
@@ -36,10 +36,17 @@ Television and Society, Fall 2023
 ## Employment Experience
 ### Communications Assistant
 McMaster Health Sciences, Hamilton
+*May 2023 - April 2024*
 - Created workflow document to ensure brand standardization across community of practice.
 - Created graphics and videos for YouTube and Instagram which resulted in increased follower count.
 - Facilitated the redesign of YouTube thumbnails and updated videos for AODA compliance.
 - Organized archival media into accessible packages for a smooth workflow.
 
+### Bakery Clerk
+Sobeys
+*July - December 2022*
+- Responded to customers in a timely and effective manner, ensuring accurate orders.
+- Maintained merchandise supply to ensure availability of products to customers using Sobey’s computerized inventory system.
+- Coordinated and decorated displays of desserts and baked goods
 
 
